@@ -35,3 +35,6 @@ Live Demo: https://news-api-bbzk.onrender.com
    -  Endpoints used:
                     /top-headlines
                     /search
+
+
+The UI is currently basic because of limited time, but a more polished and modern interface will be added soon.
