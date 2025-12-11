@@ -4,7 +4,7 @@ A clean and simple news browsing web app built using Node.js, Express, EJS templ
 Users can browse category-wise news, search headlines, and open detail pages — all rendered server-side using EJS.
 
 
-Live Demo: https://news-api-bbzk.onrender.com
+Live Demo: https://news-api-bbzk.onrender.com          (sometimes it may take time to load due to render's free plan rules)
 
 
 # Features:
