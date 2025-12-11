@@ -9,15 +9,10 @@ Live Demo: https://news-api-bbzk.onrender.com          (sometimes it may take ti
 
 # Features:
     Latest news by category (e.g., technology)
-
     Search any topic (e.g., apple, AI, football)
-
     Clean MVC structure (controllers, routes, services, views)
-
     EJS templating with dynamic UI
-
     Secure API key using .env
-
     English-filtered articles (custom filter for GNews)
 
 # Tech Stack
