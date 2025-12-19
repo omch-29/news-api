@@ -1,4 +1,4 @@
-# 📰 News Explorer – Node.js + Express + EJS (GNews API)
+<!-- # 📰 News Explorer – Node.js + Express + EJS (GNews API)
 
 A clean and simple news browsing web app built using Node.js, Express, EJS templates, and the GNews API.
 Users can browse category-wise news, search headlines, and open detail pages — all rendered server-side using EJS.
@@ -32,4 +32,4 @@ Live Demo: https://news-api-bbzk.onrender.com          (sometimes it may take ti
                     /search
 
 -----------------------------------------------------------------------------------------------------------------------
-The UI is currently basic because of limited time, but a more polished and modern interface will be added soon.
+The UI is currently basic because of limited time, but a more polished and modern interface will be added soon. -->
