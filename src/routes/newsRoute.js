@@ -7,5 +7,3 @@ router.get("/search", newsController.search);
 router.get("/details/:idx", newsController.show);
 
 module.exports = router;
-
-router;
