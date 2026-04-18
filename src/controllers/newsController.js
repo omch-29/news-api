@@ -31,6 +31,4 @@ async function show(req, res){
 }
 
 
-
-
 module.exports = {home, search, show};

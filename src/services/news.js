@@ -13,7 +13,6 @@ async function fetchRecent(category = "technology") {
 
     const articles = res.data.articles || [];
 
-    // Keep only English articles
     return articles.filter(a =>
         isEnglish(a.title) || isEnglish(a.description)
     );
