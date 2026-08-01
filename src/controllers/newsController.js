@@ -1,5 +1,6 @@
 const news = require("../services/news");
 
+    
 async function home(req, res) {
     try{
         const category = req.query.category || "technology";
