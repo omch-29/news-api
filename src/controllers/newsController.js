@@ -10,7 +10,7 @@ async function home(req, res) {
     }
 }
 
-//search
+//search function
 async function search(req, res) {
     try{
         const q = req.query.q;
