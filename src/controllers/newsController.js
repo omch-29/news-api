@@ -32,5 +32,5 @@ async function show(req, res){
     res.render("details",{ item: data});
 }
 
-
+//controller
 module.exports = {home, search, show};
