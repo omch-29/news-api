@@ -11,7 +11,7 @@ async function home(req, res) {
     }
 }
 
-//search function
+//search function to search news and fetch
 async function search(req, res) {
     try{
         const q = req.query.q;

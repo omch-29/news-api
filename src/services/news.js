@@ -30,3 +30,5 @@ async function fetchSearch(query) {
 }
 
 module.exports = { fetchRecent, fetchSearch };
+
+//new service
